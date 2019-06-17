@@ -1,4 +1,4 @@
-# fileReader with jfile chooser
+# FileReader with jfile chooser
 JFileChooser is a quick and easy way to prompt the user to choose a file or a file saving location.
 In this form of methodology a user is free to choose any txt file.
 
